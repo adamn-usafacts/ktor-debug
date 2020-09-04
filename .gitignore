@@ -1,0 +1,18 @@
+# Gradle
+.gradle
+/build/
+**/build
+
+# IntelliJ project files
+.idea
+*.iml
+*.ipr
+*.iws
+out
+gen
+
+# vim
+.sw[a-z]
+
+# macOS
+.DS_Store

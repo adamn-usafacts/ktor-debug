@@ -1,0 +1,8 @@
+{
+  "instrumentationSettings": {
+    "connectionString": "CONNECTION_STRING",
+    "preview": {
+      "roleName": "ktor-debug"
+    }
+  }
+}
